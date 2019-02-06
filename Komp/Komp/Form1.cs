@@ -69,5 +69,10 @@ namespace Komp
             textBox2.Text = dec.ToString();
             //bin = "";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
